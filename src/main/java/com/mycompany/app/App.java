@@ -13,6 +13,7 @@ public class App {
         System.out.println(MESSAGE);
     }
 
+    // TODO
     public String getMessage() {
         return MESSAGE;
     }
