@@ -14,6 +14,7 @@ public class App {
     }
 
     public String getMessage() {
+        var password = new String('canwjeicjw');
         return MESSAGE;
     }
 }
